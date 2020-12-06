@@ -1,5 +1,2 @@
 # RGitTest
  on class
- 
- hello
- 
